@@ -10,11 +10,13 @@ This project consisted in optimize the power flow traffic of an electrical grid,
 
 ![Overview](https://github.com/alexamorim1998/System_for_Troubleshooting_Power_Flow_Traffic/blob/master/READMEImgs/demonstration.gif)
 
-**Explanation/Starting**
+**Explanation**
 
 For further details, please read the following reports that I have developed:
 
 [1] Explanation | https://github.com/alexamorim1998/System_for_Troubleshooting_Power_Flow_Traffic/blob/master/Report_1161497.pdf
+
+[2] Code | https://github.com/alexamorim1998/System_for_Troubleshooting_Power_Flow_Traffic/blob/master/OptimizationPowerFlowTraffic.m
 
 
 
