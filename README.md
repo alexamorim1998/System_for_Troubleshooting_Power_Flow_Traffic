@@ -8,7 +8,7 @@ This project consisted in optimize the power flow traffic of an electrical grid,
 
 **Demonstration**
 
-![Overview](https://github.com/alexamorim1998/Dispatchable_Generation_GA/blob/master/GUI_1161497_2019_2020/imgs/demonstrationGUI.gif)
+![Overview](https://github.com/alexamorim1998/System_for_Troubleshooting_Power_Flow_Traffic/blob/master/READMEImgs/demonstration.gif)
 
 **Explanation/Starting**
 
