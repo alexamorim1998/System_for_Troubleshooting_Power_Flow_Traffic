@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in optimizing the power flow traffic of an electrical grid, threw a model based in the DC, Gauss-Seidel, Newton-Raphson and Fast-decoupled-load-flow method
+This project consisted in optimizing the power flow traffic of an electrical grid, threw a model based in the DC, Gauss-Seidel, Newton-Raphson and Fast-decoupled-load-flow methods
 
 **Technologies:**
 
